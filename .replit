@@ -1,0 +1,2 @@
+language = "bash"
+run = "cd ~/HW322/HW322; javac *.java; java Main"
